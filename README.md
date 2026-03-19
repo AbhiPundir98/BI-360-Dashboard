@@ -5,7 +5,7 @@ This project consists of a Power BI dashboard with 5 unique views to analyze and
 ## Home Page :
 
 
-  **1.** Created a _[Home Page](https://github.com/ARYANPOKHRIYAL/Business-Insights-360/blob/Aryan/Home-Page.pdf)_ for navigating to different Views in the Dashboard.
+  **1.** Created a _[Home Page](https://github.com/AbhiPundir98/BI-360-Dashboard/blob/main/BI%20360_Home.pdf)_ for navigating to different Views in the Dashboard.
 
   **2.** The tiles have navigation to their respective Views.
 
@@ -18,7 +18,7 @@ This project consists of a Power BI dashboard with 5 unique views to analyze and
 
 ## Finance View :
 
-**1.** Created a Dashboard for _[Finance View](https://github.com/ARYANPOKHRIYAL/Business-Insights-360/blob/Aryan/Finance-View.pdf)_
+**1.** Created a Dashboard for _[Finance View](https://github.com/AbhiPundir98/BI-360-Dashboard/blob/main/BI%20360_Finance.pdf)_
 
 - **KPI Visuals:** KPI Visuals for Net Sales, Gross Margin % and Net Profit %, compared with their benchmark values(Last Year/Targets).
 
@@ -28,7 +28,7 @@ This project consists of a Power BI dashboard with 5 unique views to analyze and
 
 ## Sales View :
 
-- **1.** Created a Dashboard for _[Sales View](https://github.com/ARYANPOKHRIYAL/Business-Insights-360/blob/Aryan/Sales-View.pdf)_
+- **1.** Created a Dashboard for _[Sales View](https://github.com/AbhiPundir98/BI-360-Dashboard/blob/main/BI%20360_Sales.pdf)_
   
 - **Customer Performance:** Customer Performance based on their Net Sales, Gross Margin and Gross Margin %.
 
@@ -40,6 +40,8 @@ This project consists of a Power BI dashboard with 5 unique views to analyze and
   
 ## Marketing View :
 
+- **1.** Created a Dashboard for _[Marketing View](https://github.com/AbhiPundir98/BI-360-Dashboard/blob/main/BI%20360_Marketing.pdf)_
+
 - **Product Performance:** Segement Performance against Net Sales, Gross Margin, Gross Margin %, Net Profit and Net Profit %, which can be drilled down to category and product level.
   
 - **Region/Market Performance:** Region Performance against Net Sales, Gross Margin, Gross Margin %, Net Profit and Net Profit %, which be drilled down to Market level.
@@ -50,7 +52,7 @@ This project consists of a Power BI dashboard with 5 unique views to analyze and
 
 ## Supply Chain View : 
 
-- **1.** Created a Dashboard for _[Supply Chain View](https://github.com/ARYANPOKHRIYAL/Business-Insights-360/blob/Aryan/Supply-Chain-View.pdf)_
+- **1.** Created a Dashboard for _[Supply Chain View](https://github.com/AbhiPundir98/BI-360-Dashboard/blob/main/BI%20360_Supply%20Chain.pdf)_
 
 - **KPI Visuals:** KPI Visuals for Forecast Accuracy, Net Error and ABS Error compared with their benchmark values(Last year).
 
@@ -62,7 +64,7 @@ This project consists of a Power BI dashboard with 5 unique views to analyze and
 
 - **View objective:** 
 
-- **1.** Created a Dashboard for _[Executive View](https://github.com/ARYANPOKHRIYAL/Business-Insights-360/blob/Aryan/Executive-View.pdf)_
+- **1.** Created a Dashboard for _[Executive View](https://github.com/AbhiPundir98/BI-360-Dashboard/blob/main/BI%20360_Executive%20View.pdf)_
 
 - **KPI Visuals:** KPI Visuals for Forecast Accuracy%, Net Sales, Gross Margin % and Net Profit % compared against their benchmark values(Last Year/Targets).
 
